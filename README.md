@@ -25,7 +25,7 @@ Hi! I'm **Harkaran Singh Chandok**, a passionate **Data Engineer** with expertis
 
 ## 📌 Featured Projects  
 
-### [Modern Data Wahouse Project](https://github.com/harkaran215/modern-dwh-project)  
+### [Modern Data Wahouse Project](https://github.com/harkaran215/mordern-dwh-project)  
 📝 **Description:** Building a Modern Data warehouse  
 💻 **Tech Stack:** hdfs, hive, pyspark, postgresql 
 
