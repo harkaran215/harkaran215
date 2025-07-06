@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/harkaran-singh-chandok/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/harkaran215)  
+[![Youtube](https://img.shields.io/badge/YouTube-Profile-red)](https://www.youtube.com/@harkaranchandok3040)  
 
 ## 👋 About Me  
 
@@ -28,6 +29,10 @@ Hi! I'm **Harkaran Singh Chandok**, a passionate **Data Engineer** with expertis
 ### [Modern Data Wahouse Project](https://github.com/harkaran215/mordern-dwh-project)  
 📝 **Description:** Building a Modern Data warehouse  
 💻 **Tech Stack:** hdfs, hive, pyspark, postgresql 
+
+### [Airflow Project](https://github.com/harkaran215/airflow-project)  
+📝 **Description:** Orchestrating a data pipeline using Airflow  
+💻 **Tech Stack:** Airflow, Python, Spark, Docker 
 
 ---
 
